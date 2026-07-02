@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Hecarim",
+    "role": "Fighter",
+    "region": "Shadow Isles",
+    "resource": "Mana",
+    "releaseYear": 2012,
+    "title": "The Shadow of War"
+  },
+  {
+    "id": 2,
+    "name": "Viego",
+    "role": "Fighter",
+    "region": "Shadow Isles",
+    "resource": "None",
+    "releaseYear": 2021,
+    "title": "The Ruined King"
+  },
+  {
+    "id": 3,
+    "name": "Riven",
+    "role": "Fighter",
+    "region": "Noxus",
+    "resource": "None",
+    "releaseYear": 2011,
+    "title": "The Exile"
+  },
+  {
+    "id": 4,
+    "name": "Gragas",
+    "role": "Fighter",
+    "region": "Freljord",
+    "resource": "Mana",
+    "releaseYear": 2010,
+    "title": "The Rabble Rouser"
+  },
+  {
+    "id": 5,
+    "name": "Kha'Zix",
+    "role": "Assassin",
+    "region": "The Void",
+    "resource": "Mana",
+    "releaseYear": 2012,
+    "title": "The Voidreaver"
+  },
+  {
+    "id": 6,
+    "name": "Kayn",
+    "role": "Fighter",
+    "region": "Ionia",
+    "resource": "Mana",
+    "releaseYear": 2017,
+    "title": "The Shadow Reaper"
+  },
+  {
+    "id": 7,
+    "name": "Volibear",
+    "role": "Fighter",
+    "region": "Freljord",
+    "resource": "Mana",
+    "releaseYear": 2011,
+    "title": "The Relentless Storm"
+  },
+  {
+    "id": 8,
+    "name": "Lee Sin",
+    "role": "Fighter",
+    "region": "Ionia",
+    "resource": "Energy",
+    "releaseYear": 2011,
+    "title": "The Blind Monk"
+  },
+  {
+    "id": 9,
+    "name": "Kindred",
+    "role": "Marksman",
+    "region": "Runeterra",
+    "resource": "Mana",
+    "releaseYear": 2015,
+    "title": "The Eternal Hunters"
+  },
+  {
+    "id": 10,
+    "name": "Gwen",
+    "role": "Fighter",
+    "region": "Shadow Isles",
+    "resource": "Mana",
+    "releaseYear": 2021,
+    "title": "The Hallowed Seamstress"
+  }
+]
